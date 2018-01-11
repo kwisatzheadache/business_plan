@@ -17,5 +17,25 @@ Section 1: The Company, Concept, and Products/Services
 	B. The Product and Service Mix
 		i. Libra: PRIMARY: a wearable motion sensor that predicts fall risk in seniors from 6-24 months in advance, and recommends intervention techniques and services.
 			SECONDARY: app service, with metrics for users interested in gait, walking time, activity, etc.
-		ii. 
-
+      Brochure attached
+      MEASURE PREDICT PREVENT
+    ii. Maps movement to established medical literature regarding gait disorders and falling. Specifically modelled on FallProof by Dr Rose. Extracts activities and metrics about stand-sit, turning, walking, balance, symmetry, strength and power. Mobility time-series data to diagnosis to intervention.
+    iii. Unique feature: RISK PREVENTION, activity extraction
+      a. COMPARISON TO CURRENT MARKET... spire, fitbit. what are there limitations? Is there a european version of libra in development?
+      b. nothing in US does what embrace does. Yet.
+    iv. DRAWBACKS:
+      a. 3 to 6 months for many of the predictive metrics. Q: Are there any informative metrics right off the back? Perhaps symmetry? Power in sit-stand/stand-sit? For CCRC, not a problem as much.
+      b. Mistaken for fitbit
+      c. Limited market (CCRC's and old folks)
+      d. Possible to do all of this with a phone?
+    v. HEADSTARTS
+      a. First on the market
+      b. Patenting nx10 device with activity extraction
+      c. CCRC commitments
+      d. Dr Rose expertise
+      e. Connections in the community
+    vi. Expansion past Libra
+      a. Prediction of other illnesses
+      b. Use as an activity tracker
+  C. MARKET ENTRY
+    i. 
