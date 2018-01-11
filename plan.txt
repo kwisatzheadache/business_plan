@@ -1,0 +1,21 @@
+Section 1: The Company, Concept, and Products/Services
+	A. The Company and the Concept
+		i. Embrace is an LLC, formed by four partners: Gabe, Jun, Ian, and Ryan. Based in San Diego, started in the fall of 2016.
+		ii. History:
+			a. Jun and Gabe met at UCSD. Created first project (name) and submitted to (competitions). 
+			b. Family member injured due to fall (details)
+			c. Modify original concept to create Libra
+			d. Moved in with Ian and Ryan
+			e. Developed software, boards, network, server/client side, prototyping, production.
+			f. Libra has been in (what competitions, received what money, been featured in what magazines).
+			g. Mission of Libra: promote wellbeing in old people by predicting fall risk and intervening to prevent injury
+		iii. Unique Value Proposition:
+			a. Fall risk prevention and intervention
+			b. Value directly to User as well as Care Provider:
+				i. User - better health, fewer injuries, and peace of mind
+				ii. Care Provider - lower risk and increased predictability
+	B. The Product and Service Mix
+		i. Libra: PRIMARY: a wearable motion sensor that predicts fall risk in seniors from 6-24 months in advance, and recommends intervention techniques and services.
+			SECONDARY: app service, with metrics for users interested in gait, walking time, activity, etc.
+		ii. 
+
