@@ -83,6 +83,7 @@ Section II: The Industry Analysis
     ii. Get bought out by other company
     iii. Adoption by powerhouse player
     iv. How does the success of other winners affect our strategy?
+    v. Scalability
   F. Standard finantial ratios for the industry
     i. LIQUIDITY RATIO/ROI, ETC
     ii. Ratio's impact on our strategy
@@ -108,7 +109,18 @@ Section III: Market Research and Analysis
       c. Indirect client (adult child)
       d. Caretaker
   B. Market Size and Trends:
-    i. Market size and potential in dollars
+    i. Market size and potential in dollars. Develop a estimation method?
       a. CCRC: 300 in US. $40k annual per
-      b. Old people: lots of them. $100 per. Not recurring. 
-      c. (later) Insurance providers
+      b. Old people: lots of them. $100 per. Not recurring. How many old people? What portion of them do we want to capture?
+      c. (later) Insurance providers. Sell it like geico sells there good driver sensor
+    ii. Key assumptions of projections. SECTION NEEDS WORK
+      a. Old people will fall
+      b. We can beat others to corner this market
+      c. CCRC's and insurance providers will respond similarly
+      d. B2C will show interest in the same product
+    iii. Estimate size of primary and selective demand gaps
+      a. Primary demand is greater, since this is a new-ish idea. The idea of fall prevention via technology isn't established yet
+    iv. Growth potential of market.
+  C. Buyer behavior
+    i. who what when where and how
+      a. CCRC's
