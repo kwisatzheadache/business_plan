@@ -38,4 +38,77 @@ Section 1: The Company, Concept, and Products/Services
       a. Prediction of other illnesses
       b. Use as an activity tracker
   C. MARKET ENTRY
-    i. 
+    i. How and where to enter market
+      a. CCRC's first. Direct incentive to reduce risk. Commitment from 3 already, translatable to $120,000 in revenue
+      b. Expansion beyond California CCRC. Direct contact via phone marketing, email marketing campaign. More importantly - word of mouth from CCRC and cross-state conglomerates.
+      c. After initiation of CCRC campaign, mass digital marketing campaign for direct-to-consumer market. Independent living communities, AARP
+      d. Post-FDA approval, via insurance companies.
+    ii. Five-year vision (NEEDS FLESHING OUT)
+      a. 80% CCRC's in California on annual plan. ($360,000 revenue).
+      b. 20% national CCRC market ($2,000,000 revenue). Based on approx 300 CCRC, at $40,000/yr
+      c. WHAT IS PROJECTION OF B2C MARKET?
+    iii. Rate of Growth
+      a. CCRC first, until market saturation.
+      b. Rate of growth in B2C market comparable to what? Fitbit? no..... ANSWER THIS
+      c. Eventual deployment of FDA device to doctors offices and physical therapists. Insurance billing. NEED DETAILS ABOUT INSURANCE BILLING...
+    iv. How to create barriers of entry for others.
+      a. Patent device (3 sensors to extract activity info)
+      b. FDA approval is more rigorous, gives time to corner market.
+      c. Be the first one there. CCRC market is limited, it won't take long to cover entire sector.
+   
+Section II: The Industry Analysis
+  A. Summarize the industry in which the business will operate
+    i. Health Care and Social Assistance
+    ii. How is it segmented?
+      a. Consumer
+      b. Provider
+      c. Insurance company
+  B. Industry size and annual growth rate:
+    i. 30bn dollar industry
+    ii. GROWTH RATE? FAIRLY STABLE?
+    iii. Industry is growing due to retirement of baby boomers
+    iv. It is becoming more tech-driven
+    v. Get in now, before everyone else. Develop into SaaS to ride into the future.
+  C. Structure of the industry at present
+    i. HOW CONCENTRATED IS THE INDUSTRY?
+    ii. COMPETITION? SPIRE? EUROPEAN COMPANIES?
+    iii. Fall prevention programs, but these are not typically tech-driven, but by physical therapists.
+    iv. Reactive services, less so than preventive. Life-alert
+  D. Trends in the industry: (Boomers are a hugely positive issue for us)
+    i. Conversion to tech-driven
+    ii. Machine learning cropping up everywhere
+    iii. Costs will be going up as Boomers retire. Demand increase
+  E. Success Factors
+    i. WHAT MADE FITBIT WORK?
+    ii. Get bought out by other company
+    iii. Adoption by powerhouse player
+    iv. How does the success of other winners affect our strategy?
+  F. Standard finantial ratios for the industry
+    i. LIQUIDITY RATIO/ROI, ETC
+    ii. Ratio's impact on our strategy
+      a. Front heavy development
+      b. CCRC allows entry into large market with minimal marketing cost
+      c. Annual membership
+
+Section III: Market Research and Analysis
+  A. Define your relevant market and customer overview
+    i. What is the market? 
+      a. CCRC
+      b. Old people
+      c. Old people's kids
+      d. (later) insurance providers
+      e. (later) physical therapists
+    ii. Demographics
+      a. Upper/Middle class, urban, suburban
+      b. White? (because many ethnic groups have less independent elderly?) CHECK THIS
+      c. Old People
+    iii. Serve more than one market? Hell yes
+      a. CCRC decision makers
+      b. Direct client
+      c. Indirect client (adult child)
+      d. Caretaker
+  B. Market Size and Trends:
+    i. Market size and potential in dollars
+      a. CCRC: 300 in US. $40k annual per
+      b. Old people: lots of them. $100 per. Not recurring. 
+      c. (later) Insurance providers

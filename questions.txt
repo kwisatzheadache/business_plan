@@ -1,0 +1,2 @@
+Add insurance providers to list of market. Go from CCRCs directly to insurers?
+Like a safe-driver policy for a car where you get a sensor.
